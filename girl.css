@@ -1,0 +1,41 @@
+
+html, body{ 
+font-family: sans-serif; 
+font-size: 20px;
+margin: 0px;}
+header{
+	background-color: grey;	
+text-align: center;
+}
+h1{text-shadow: 0 40px 20px black}
+header img{ border-radius: 150px;
+	border: 174px ;
+	border: solid white ;
+	box-shadow: 0 10px 20px black;
+	 }
+
+.content{ 
+ max-width: 900px
+ margin:0 auto; 
+padding-top: 40px;
+padding-left: 90px;
+background-color: #ffe6e6}
+
+img.big-image{ max-width: 100%;
+box-shadow: 0 40px 20px grey;
+ }
+ p.caption{
+ 	font-family: cursive;
+ 	color:#666699;
+ }
+ ul{
+
+ 	padding-left: 90px;
+ 	padding-right: 90px;}
+ 	a{ color: darkgreen;
+ 	background-color:white;  }
+footer ul li{
+	display: inline;
+	padding-left: 60px;
+	text-align:center;
+}
